@@ -17,8 +17,7 @@ body {
     width: 375px;
     padding: 2rem;
     gap: 1.5rem;
-    // background:radial-gradient(circle at 50% 0%, rgba(37, 45, 55, 1) 0%, rgba(18, 20, 23, 1) 48%);
-    background: $AccentDarkBlue;
+    background: radial-gradient(circle at 53% 0%, #232A34 0%, #181F29 50%);
     color: $AccentWhite;
     font-family: 'Overpass', sans-serif;
 
@@ -106,7 +105,7 @@ body {
     width: 375px;
     padding: 2rem;
     gap: 1rem;
-    background-color: $AccentDarkBlue;
+    background: radial-gradient(circle at 53% 0%, #232A34 0%, #181F29 50%);
     color: $AccentWhite;
     font-family: 'Overpass', sans-serif;
 

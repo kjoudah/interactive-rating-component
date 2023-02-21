@@ -73,7 +73,7 @@ body {
   width: 375px;
   padding: 2rem;
   gap: 1.5rem;
-  background: hsl(213deg, 19%, 18%);
+  background: radial-gradient(circle at 53% 0%, #232A34 0%, #181F29 50%);
   color: hsl(0deg, 0%, 100%);
   font-family: "Overpass", sans-serif;
 }
@@ -148,7 +148,7 @@ body {
   width: 375px;
   padding: 2rem;
   gap: 1rem;
-  background-color: hsl(213deg, 19%, 18%);
+  background: radial-gradient(circle at 53% 0%, #232A34 0%, #181F29 50%);
   color: hsl(0deg, 0%, 100%);
   font-family: "Overpass", sans-serif;
 }
